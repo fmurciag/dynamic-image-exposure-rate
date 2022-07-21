@@ -1,5 +1,5 @@
 # dynamic-image-exposure-rate
-Dynamic adjustment of image exposure rate with tracking bar
+Dynamic adjustment of image exposure rate with tracking bar using the the gamma function
 
 ## Explain
 
