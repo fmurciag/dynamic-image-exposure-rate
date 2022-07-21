@@ -9,11 +9,11 @@ When 0<R<1, the curve is above R=1 and the value of the color space increases. M
 
 <table>
   <tr>
-    <td>Debevec's method</td>
-    <td>Drago's method</td>
+    <td>R=0,2</td>
+    <td>R=0,48</td>
     <td>R=1</td>
-    <td>Drago's method</td>
-    <td>Drago's method</td>
+    <td>R=2,11</td>
+    <td>R=5,83</td>
   </tr>
   <tr>
     <td><img src="source/img3.png"></td>
