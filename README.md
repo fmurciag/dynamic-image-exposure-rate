@@ -29,7 +29,7 @@ When 0<R<1, the curve is above R=1 and the value of the color space increases. M
  
  ## How to use
  In the top you can see a track bar, the value of the track bar is R/0,01
- | R | track bar     | 
+ | R | Track bar     | 
 | :-------- | :------- | 
 | 1 | 100 |
 | 0,5 | 50 |
