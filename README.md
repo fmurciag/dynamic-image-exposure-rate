@@ -18,7 +18,7 @@ When 0<R<1, the curve is above R=1 and the value of the color space increases. M
   <tr>
     <td><img src="source/img3.png"></td>
     <td><img src="source/img1.png"></td>
-    <td><img src="img_in/B3.jpg"></td>
+    <td><img src="img_in/B3.jpg" width="75%" height="75%"></td>
     <td><img src="source/img2.png"></td>
     <td><img src="source/img4.png"></td>
   </tr>
