@@ -12,14 +12,12 @@ When 0<R<1, the curve is above R=1 and the value of the color space increases. M
 ## Results 
 <table>
   <tr>
-    <td>R=0,2</td>
     <td>R=0,48</td>
     <td>R=1</td>
     <td>R=2,11</td>
     <td>R=5,83</td>
   </tr>
   <tr>
-    <td><img src="source/img3.png"></td>
     <td><img src="source/img1.png"></td>
     <td><img src="img_in/B3.jpg" width="75%" height="75%"></td>
     <td><img src="source/img2.png"></td>
