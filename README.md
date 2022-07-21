@@ -3,9 +3,7 @@ Dynamic adjustment of image exposure rate with tracking bar using the the gamma 
 
 ## Explain
 
-As can be seen in the graph of the gamma function, when R>1, the curve is below R=1 and the value of the color space decreases, making the image less bright.
-
-When 0<R<1, the curve is above R=1 and the value of the color space increases. Macroscopic performance is the increase in image brightness
+As can be seen in the graph of the gamma function, when R>1, the curve is below R=1 and the value of the color space decreases, making the image less bright, becoming an image of little exposure. When 0<R<1, the curve is above R=1 and the value of the color space increases. Macroscopic performance is the increase in image brightness, becoming an image of a lot of exposure.
 
 <img src="source/grafico.png">
 
